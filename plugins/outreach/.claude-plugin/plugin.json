@@ -1,0 +1,19 @@
+{
+  "name": "outreach",
+  "version": "1.0.0",
+  "description": "Cold email writer, email check (copy and deliverability) and LinkedIn post writer.",
+  "author": {
+    "name": "RevOps Lab",
+    "url": "https://revopslab.org"
+  },
+  "homepage": "https://revopslab.org/agents/",
+  "repository": "https://github.com/revops-lab/agents",
+  "license": "MIT",
+  "keywords": [
+    "sales",
+    "marketing",
+    "revops",
+    "gtm",
+    "hubspot"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "name": "revopslab",
+  "owner": {
+    "name": "RevOps Lab",
+    "url": "https://revopslab.org"
+  },
+  "metadata": {
+    "description": "Free, researched Claude skills for sales, marketing and revenue operations teams.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "start-here",
+      "source": "./plugins/start-here",
+      "description": "Company context: the one file every other agent reads (what you sell, ideal customer, buying group, buying situations, proof)."
+    },
+    {
+      "name": "find-accounts",
+      "source": "./plugins/find-accounts",
+      "description": "Ideal customer finder, account brief, right-person check, buying-signal monitor and lead scoring designer."
+    },
+    {
+      "name": "outreach",
+      "source": "./plugins/outreach",
+      "description": "Cold email writer, email check (copy and deliverability) and LinkedIn post writer."
+    },
+    {
+      "name": "meetings",
+      "source": "./plugins/meetings",
+      "description": "First call prep, call follow-up (SPICED), objection helper and meeting sorter."
+    },
+    {
+      "name": "pipeline",
+      "source": "./plugins/pipeline",
+      "description": "Account context, account intelligence, deal review (MEDDICC and premortem) and weekly pipeline review."
+    },
+    {
+      "name": "marketing",
+      "source": "./plugins/marketing",
+      "description": "AI visibility check, Google Ads waste finder, content brief and channel attribution."
+    },
+    {
+      "name": "crm-ops",
+      "source": "./plugins/crm-ops",
+      "description": "CRM hygiene audit and lead hand-off check (speed to lead and routing)."
+    },
+    {
+      "name": "customers",
+      "source": "./plugins/customers",
+      "description": "Renewal risk check and QBR prep."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "pipeline",
+  "version": "1.0.0",
+  "description": "Account context, account intelligence, deal review (MEDDICC and premortem) and weekly pipeline review.",
+  "author": {
+    "name": "RevOps Lab",
+    "url": "https://revopslab.org"
+  },
+  "homepage": "https://revopslab.org/agents/",
+  "repository": "https://github.com/revops-lab/agents",
+  "license": "MIT",
+  "keywords": [
+    "sales",
+    "marketing",
+    "revops",
+    "gtm",
+    "hubspot"
+  ]
+}

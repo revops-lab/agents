@@ -1,0 +1,38 @@
+{
+  "_note": "Example deal fields for a SPICED set-up. Rename internal names and options to match your CRM exactly. 'write': false keeps a field visible in the review table but the skill never sets it.",
+  "fields": {
+    "owner":                  { "label": "Deal owner",               "type": "text",   "write": false },
+    "next_step":              { "label": "Next step",                "type": "text" },
+    "next_step_date":         { "label": "Next step date",           "type": "date" },
+    "spiced_situation":       { "label": "Situation",                "type": "text" },
+    "spiced_pain":            { "label": "Pain",                     "type": "text" },
+    "pain_severity":          { "label": "Pain severity",            "type": "enum", "options": ["High", "Medium", "Low"] },
+    "trigger_identified":     { "label": "Trigger identified",       "type": "enum", "options": ["Yes", "No"] },
+    "trigger_type":           { "label": "Trigger type",             "type": "enum", "options": [
+      "Regulatory or compliance change", "New executive or leadership change", "M&A or restructuring",
+      "Planning cycle", "Competitive or market threat", "Expiring or failing current tool",
+      "Internal initiative or mandate", "Other"] },
+    "critical_event":         { "label": "Critical event",           "type": "text" },
+    "critical_event_date":    { "label": "Critical event date",      "type": "date" },
+    "quantified_value":       { "label": "Quantified value",         "type": "number" },
+    "spiced_impact":          { "label": "Impact",                   "type": "text" },
+    "cost_of_inaction":       { "label": "Cost of inaction",         "type": "text" },
+    "decision_criteria":      { "label": "Decision criteria",        "type": "text" },
+    "decision_process_mapped":{ "label": "Decision process mapped",  "type": "enum", "options": ["Yes", "Partial", "No"] },
+    "champion":               { "label": "Champion",                 "type": "text" },
+    "champion_strength":      { "label": "Champion strength",        "type": "enum", "options": ["Strong", "Developing", "Potential", "None"] },
+    "budget_holder_confirmed":{ "label": "Budget holder confirmed",  "type": "enum", "options": ["Yes", "No"] },
+    "budget_holder":          { "label": "Budget holder",            "type": "text" },
+    "competition":            { "label": "Competition",              "type": "text" },
+    "forecast_category":      { "label": "Forecast category",        "type": "enum", "options": ["Commit", "Best case", "Pipeline", "Omitted"] },
+    "closed_lost_reason":     { "label": "Closed lost reason",       "type": "text",   "write": false }
+  },
+  "never_write": [],
+  "display_order": [
+    "owner", "next_step", "next_step_date", "spiced_situation", "spiced_pain", "pain_severity",
+    "trigger_identified", "trigger_type", "critical_event", "critical_event_date", "quantified_value",
+    "spiced_impact", "cost_of_inaction", "decision_criteria", "decision_process_mapped", "champion",
+    "champion_strength", "budget_holder_confirmed", "budget_holder", "competition", "forecast_category",
+    "closed_lost_reason"
+  ]
+}

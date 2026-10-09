@@ -1,0 +1,19 @@
+{
+  "name": "customers",
+  "version": "1.0.0",
+  "description": "Renewal risk check and QBR prep.",
+  "author": {
+    "name": "RevOps Lab",
+    "url": "https://revopslab.org"
+  },
+  "homepage": "https://revopslab.org/agents/",
+  "repository": "https://github.com/revops-lab/agents",
+  "license": "MIT",
+  "keywords": [
+    "sales",
+    "marketing",
+    "revops",
+    "gtm",
+    "hubspot"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "find-accounts",
+  "version": "1.0.0",
+  "description": "Ideal customer finder, account brief, right-person check, buying-signal monitor and lead scoring designer.",
+  "author": {
+    "name": "RevOps Lab",
+    "url": "https://revopslab.org"
+  },
+  "homepage": "https://revopslab.org/agents/",
+  "repository": "https://github.com/revops-lab/agents",
+  "license": "MIT",
+  "keywords": [
+    "sales",
+    "marketing",
+    "revops",
+    "gtm",
+    "hubspot"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "crm-ops",
+  "version": "1.0.0",
+  "description": "CRM hygiene audit and lead hand-off check (speed to lead and routing).",
+  "author": {
+    "name": "RevOps Lab",
+    "url": "https://revopslab.org"
+  },
+  "homepage": "https://revopslab.org/agents/",
+  "repository": "https://github.com/revops-lab/agents",
+  "license": "MIT",
+  "keywords": [
+    "sales",
+    "marketing",
+    "revops",
+    "gtm",
+    "hubspot"
+  ]
+}

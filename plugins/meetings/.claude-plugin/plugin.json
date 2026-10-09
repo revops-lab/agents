@@ -1,0 +1,19 @@
+{
+  "name": "meetings",
+  "version": "1.0.0",
+  "description": "First call prep, call follow-up (SPICED), objection helper and meeting sorter.",
+  "author": {
+    "name": "RevOps Lab",
+    "url": "https://revopslab.org"
+  },
+  "homepage": "https://revopslab.org/agents/",
+  "repository": "https://github.com/revops-lab/agents",
+  "license": "MIT",
+  "keywords": [
+    "sales",
+    "marketing",
+    "revops",
+    "gtm",
+    "hubspot"
+  ]
+}

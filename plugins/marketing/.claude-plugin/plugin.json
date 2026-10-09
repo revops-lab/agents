@@ -1,0 +1,19 @@
+{
+  "name": "marketing",
+  "version": "1.0.0",
+  "description": "AI visibility check, Google Ads waste finder, content brief and channel attribution.",
+  "author": {
+    "name": "RevOps Lab",
+    "url": "https://revopslab.org"
+  },
+  "homepage": "https://revopslab.org/agents/",
+  "repository": "https://github.com/revops-lab/agents",
+  "license": "MIT",
+  "keywords": [
+    "sales",
+    "marketing",
+    "revops",
+    "gtm",
+    "hubspot"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "start-here",
+  "version": "1.0.0",
+  "description": "Company context: the one file every other agent reads (what you sell, ideal customer, buying group, buying situations, proof).",
+  "author": {
+    "name": "RevOps Lab",
+    "url": "https://revopslab.org"
+  },
+  "homepage": "https://revopslab.org/agents/",
+  "repository": "https://github.com/revops-lab/agents",
+  "license": "MIT",
+  "keywords": [
+    "sales",
+    "marketing",
+    "revops",
+    "gtm",
+    "hubspot"
+  ]
+}

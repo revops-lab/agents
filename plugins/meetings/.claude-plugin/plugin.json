@@ -1,7 +1,7 @@
 {
   "name": "meetings",
-  "version": "1.0.0",
-  "description": "First call prep, call follow-up (SPICED), objection helper and meeting sorter.",
+  "version": "1.1.0",
+  "description": "First call prep, call follow-up (SPICED), objection helper, meeting sorter and sales battlecard.",
   "author": {
     "name": "RevOps Lab",
     "url": "https://revopslab.org"

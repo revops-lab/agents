@@ -1,6 +1,6 @@
 # RevOps Lab agents
 
-Free, researched Claude skills for sales, marketing and revenue operations teams. 25 agents in 8
+Free, researched Claude skills for sales, marketing and revenue operations teams. 34 agents in 8
 categories, each built on named research (see [RESEARCH.md](RESEARCH.md)), each asking only the
 questions it needs, and each proposing before it changes anything. Works for any industry.
 
@@ -21,7 +21,7 @@ Then install the categories you want, for example:
 
 ## Install in the Claude app or Cowork
 Click an agent name in the table below to open its page and download it as a zip, then upload it
-in Settings, under Skills. All 25 zips are also attached to the
+in Settings, under Skills. All 34 zips are also attached to the
 [latest release](https://github.com/revops-lab/agents/releases/latest).
 
 ## Start here
@@ -39,25 +39,34 @@ Project knowledge.
 | | [`right-person-check`](https://revopslab.org/agents/right-person-check/) | Job titles sorted into personas or "not a fit", with the rule that decided |
 | | [`buying-signal-monitor`](https://revopslab.org/agents/buying-signal-monitor/) | A ranked "act now" list of accounts with dated signals and who to contact |
 | | [`lead-scoring-designer`](https://revopslab.org/agents/lead-scoring-designer/) | A fit plus engagement score tested on your history, with a build sheet |
+| | [`champion-tracker`](https://revopslab.org/agents/champion-tracker/) | Past champions who moved to a fitting company, with a warm note to approve |
+| | [`closed-lost-revival`](https://revopslab.org/agents/closed-lost-revival/) | Win-loss reasons with counts, and the lost deals worth reopening now |
 | Reach out | [`cold-email-writer`](https://revopslab.org/agents/cold-email-writer/) | A three to four step sequence under 100 words per email, built on a real reason |
 | | [`email-check`](https://revopslab.org/agents/email-check/) | A score, the weak lines, a deliverability check (SPF, DKIM, DMARC) and a rewrite |
 | | [`linkedin-post-writer`](https://revopslab.org/agents/linkedin-post-writer/) | A researched, answer-first post with a visual brief, for a person or a page |
+| | [`cold-email-sequence`](https://revopslab.org/agents/cold-email-sequence/) | One segment, one angle, three steps under 100 words, with a send checklist |
+| | [`sending-domain-audit`](https://revopslab.org/agents/sending-domain-audit/) | SPF, DKIM, DMARC and MX for every sending domain, the exact fixes and a warm-up plan |
 | Meetings | [`first-call-prep`](https://revopslab.org/agents/first-call-prep/) | A one-screen brief: who, what changed, your history, questions to ask |
 | | [`call-follow-up`](https://revopslab.org/agents/call-follow-up/) | Buyer questions, a SPICED summary and CRM updates you approve |
 | | [`objection-helper`](https://revopslab.org/agents/objection-helper/) | What is really behind an objection or stall, and the next question and answer |
 | | [`meeting-sorter`](https://revopslab.org/agents/meeting-sorter/) | A week of calls sorted, with patterns and exact quotes |
+| | [`sales-battlecard`](https://revopslab.org/agents/sales-battlecard/) | One page per competitor from your won and lost deals: landmines, objections, proof |
 | Pipeline and forecast | [`account-context`](https://revopslab.org/agents/account-context/) | The full account history from the CRM on one pinned note |
 | | [`account-intelligence`](https://revopslab.org/agents/account-intelligence/) | A cited brief on a top account: why now, who owns the budget, what to say |
 | | [`deal-review`](https://revopslab.org/agents/deal-review/) | MEDDICC evidence check, stall risks, a premortem and three actions |
 | | [`pipeline-review`](https://revopslab.org/agents/pipeline-review/) | Coverage from your own win rate, slippage, risk and five conversations |
+| | [`stakeholder-map`](https://revopslab.org/agents/stakeholder-map/) | The buying group mapped: roles, stance, power, gaps and one next step per person |
+| | [`proposal-writer`](https://revopslab.org/agents/proposal-writer/) | A proposal in the buyer's words with a recommendation, a first step and a mutual plan |
 | Marketing | [`ai-visibility-check`](https://revopslab.org/agents/ai-visibility-check/) | Whether ChatGPT, Claude, Gemini and Perplexity recommend you, and why not |
 | | [`google-ads-waste-finder`](https://revopslab.org/agents/google-ads-waste-finder/) | Wasted search spend found and priced, with negative keywords ready to paste |
 | | [`content-brief`](https://revopslab.org/agents/content-brief/) | A keyword-led, answer-first brief that Google and AI assistants can quote |
 | | [`channel-attribution`](https://revopslab.org/agents/channel-attribution/) | Revenue by channel in three views, with the tracking gaps that skew them |
+| | [`weekly-marketing-report`](https://revopslab.org/agents/weekly-marketing-report/) | GA4, Search Console and CRM in one screen, ending in one decision for the week |
 | CRM and operations | [`crm-hygiene-audit`](https://revopslab.org/agents/crm-hygiene-audit/) | Data problems ranked by the decisions they break, with a fix plan |
 | | [`lead-handoff-check`](https://revopslab.org/agents/lead-handoff-check/) | Real speed to lead, routing leaks and an SLA between marketing and sales |
 | Customers | [`renewal-risk-check`](https://revopslab.org/agents/renewal-risk-check/) | Accounts at risk before renewal, with reasons and save plans |
 | | [`qbr-prep`](https://revopslab.org/agents/qbr-prep/) | A business review built on the customer's goals and results |
+| | [`account-plan`](https://revopslab.org/agents/account-plan/) | A one-page plan for a key customer: goals, value, relationships, risks, 90 days |
 
 ## HubSpot
 Agents that read HubSpot name the exact properties they use (display name and default internal

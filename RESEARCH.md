@@ -31,6 +31,18 @@ Read it with sources, evidence types and links to each skill at https://revopsla
 | Sender rules | Since February 2024, Gmail and Yahoo require bulk senders to authenticate (SPF, DKIM, DMARC), offer one-click unsubscribe and keep spam complaints below 0.3 percent. | Google and Yahoo sender requirements, via deliverability guides | Email checks verify authentication and complaint rate before volume. |
 | Opens are unreliable | Apple Mail Privacy Protection and corporate security scanners trigger opens automatically. | Deliverability research and vendor guides | No agent treats an email open as interest. Replies and clicks from several people count. |
 
+## Added October 2026 (new skills)
+
+| Idea | What it says | Source | How an agent uses it |
+|---|---|---|---|
+| Buying roles | Economic buyer, user, technical buyer and coach (champion) play different parts in one decision. | Robert Miller and Stephen Heiman, *Strategic Selling* (1985) | The stakeholder map places every person in a role and flags missing ones. |
+| Power and interest grid | Stakeholders differ in power and interest; each quadrant needs different handling. | Aubrey Mendelow, stakeholder mapping (1991) | The stakeholder map plots influence against stance. |
+| Mobilisers | Deals move when a "mobiliser" inside the company pushes for change, not when the friendliest contact likes you. | Adamson, Dixon, Spenner and Toman, *The Challenger Customer* (2015) | The stakeholder map marks who mobilises and who only talks. |
+| Champion moves | Champions who change jobs are a warm signal that competitors buying the same intent data cannot see. | Kyle Poyar, Growth Unhinged, "The new battleground in GTM" (September 2026) | The champion tracker watches past champions and drafts a note. |
+| Lost deals return | Companies that said "not now" often come back, visible as pricing or comparison page visits after months of silence. | Snitcher, "Your lost deals are coming back" (October 2026, vendor view) | Closed-lost revival looks for a new signal before reopening. |
+| SPF limits | SPF may trigger at most 10 DNS lookups and at most 2 void lookups, or it fails. | RFC 7208 | The sending domain audit counts lookups through nested includes. |
+| DMARC | A policy (none, quarantine, reject) and reports, checked against SPF and DKIM alignment. | RFC 7489 | The audit plans a rollout from p=none to p=reject. |
+
 ## What the consultancies and research houses found
 
 | Idea | What it says | Source | How an agent uses it |

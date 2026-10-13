@@ -1,7 +1,7 @@
 {
   "name": "marketing",
-  "version": "1.0.0",
-  "description": "AI visibility check, Google Ads waste finder, content brief and channel attribution.",
+  "version": "1.1.0",
+  "description": "AI visibility check, Google Ads waste finder, content brief, channel attribution and weekly marketing report.",
   "author": {
     "name": "RevOps Lab",
     "url": "https://revopslab.org"

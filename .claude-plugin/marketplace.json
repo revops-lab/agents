@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Free, researched Claude skills for sales, marketing and revenue operations teams.",
-    "version": "1.0.0"
+    "version": "1.1.0"
   },
   "plugins": [
     {
@@ -17,27 +17,27 @@
     {
       "name": "find-accounts",
       "source": "./plugins/find-accounts",
-      "description": "Ideal customer finder, account brief, right-person check, buying-signal monitor and lead scoring designer."
+      "description": "Ideal customer finder, account brief, right-person check, buying-signal monitor, lead scoring designer, champion tracker and closed-lost revival."
     },
     {
       "name": "outreach",
       "source": "./plugins/outreach",
-      "description": "Cold email writer, email check (copy and deliverability) and LinkedIn post writer."
+      "description": "Cold email writer, cold email sequence, email check, sending domain audit (SPF, DKIM, DMARC) and LinkedIn post writer."
     },
     {
       "name": "meetings",
       "source": "./plugins/meetings",
-      "description": "First call prep, call follow-up (SPICED), objection helper and meeting sorter."
+      "description": "First call prep, call follow-up (SPICED), objection helper, meeting sorter and sales battlecard."
     },
     {
       "name": "pipeline",
       "source": "./plugins/pipeline",
-      "description": "Account context, account intelligence, deal review (MEDDICC and premortem) and weekly pipeline review."
+      "description": "Account context, account intelligence, stakeholder map, deal review (MEDDPICC and premortem), proposal writer and weekly pipeline review."
     },
     {
       "name": "marketing",
       "source": "./plugins/marketing",
-      "description": "AI visibility check, Google Ads waste finder, content brief and channel attribution."
+      "description": "AI visibility check, Google Ads waste finder, content brief, channel attribution and weekly marketing report."
     },
     {
       "name": "crm-ops",
@@ -47,7 +47,7 @@
     {
       "name": "customers",
       "source": "./plugins/customers",
-      "description": "Renewal risk check and QBR prep."
+      "description": "Renewal risk check, QBR prep and account plan."
     }
   ]
 }

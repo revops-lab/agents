@@ -1,7 +1,7 @@
 {
   "name": "outreach",
-  "version": "1.0.0",
-  "description": "Cold email writer, email check (copy and deliverability) and LinkedIn post writer.",
+  "version": "1.1.0",
+  "description": "Cold email writer, cold email sequence, email check, sending domain audit (SPF, DKIM, DMARC) and LinkedIn post writer.",
   "author": {
     "name": "RevOps Lab",
     "url": "https://revopslab.org"

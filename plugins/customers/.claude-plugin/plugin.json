@@ -1,7 +1,7 @@
 {
   "name": "customers",
-  "version": "1.0.0",
-  "description": "Renewal risk check and QBR prep.",
+  "version": "1.1.0",
+  "description": "Renewal risk check, QBR prep and account plan.",
   "author": {
     "name": "RevOps Lab",
     "url": "https://revopslab.org"

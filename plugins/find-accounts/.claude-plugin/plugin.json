@@ -1,7 +1,7 @@
 {
   "name": "find-accounts",
-  "version": "1.0.0",
-  "description": "Ideal customer finder, account brief, right-person check, buying-signal monitor and lead scoring designer.",
+  "version": "1.1.0",
+  "description": "Ideal customer finder, account brief, right-person check, buying-signal monitor, lead scoring designer, champion tracker and closed-lost revival.",
   "author": {
     "name": "RevOps Lab",
     "url": "https://revopslab.org"

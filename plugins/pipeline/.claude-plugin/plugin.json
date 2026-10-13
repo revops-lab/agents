@@ -1,7 +1,7 @@
 {
   "name": "pipeline",
-  "version": "1.0.0",
-  "description": "Account context, account intelligence, deal review (MEDDICC and premortem) and weekly pipeline review.",
+  "version": "1.1.0",
+  "description": "Account context, account intelligence, stakeholder map, deal review (MEDDPICC and premortem), proposal writer and weekly pipeline review.",
   "author": {
     "name": "RevOps Lab",
     "url": "https://revopslab.org"

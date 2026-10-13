@@ -2,6 +2,8 @@
 
 Every agent in this library thinks with one or more of the ideas below. They are chosen because they change what you ask and what you do, not because they sound clever. Each line says where it comes from and how sure we are about the numbers. Researched October 2026.
 
+Read it with sources, evidence types and links to each skill at https://revopslab.org/agents/research/
+
 ## How buyers really decide
 
 | Idea | What it says | Source | How an agent uses it |
